@@ -5,7 +5,7 @@
 - Synaptic package manager
 - Tomcat 9.0.17
 - JRE of OpenJDK8
-- Basic python http server included. Example: python3 -m http.server 8080
+- Basic python http server included. Example: python3 -m http.server
 - Command-line download manager: wget
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - It can be used as a base of development environments, to test software...
