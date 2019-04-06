@@ -3,7 +3,7 @@
 - Linux Kernel 4.18 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
-- Tomcat 9.0.17
+- Tomcat 9.0.17 that starts on boot
 - JRE of OpenJDK8
 - Basic python http server included. Example: python3 -m http.server
 - Command-line download manager: wget
