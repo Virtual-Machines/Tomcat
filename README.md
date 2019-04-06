@@ -8,7 +8,7 @@
 - Basic python http server included. Example: python3 -m http.server
 - Command-line download manager: wget
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
-- It can be used as a base of development environments, to test software...
+- It can be used as a development server
 - OVA file less than 500 MB
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
